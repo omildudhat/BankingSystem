@@ -10,6 +10,7 @@ How to compile:
 If running on UNT servers
 
   g++ bank.cpp
+  
   ./a.out
   
 If running on IDE or online compiler simply run
