@@ -8,6 +8,7 @@ When opening an account, will add input values into data file and read from it w
 
 How to compile:
 If running on UNT servers
+
   g++ bank.cpp
   ./a.out
   
