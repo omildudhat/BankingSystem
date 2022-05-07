@@ -2,6 +2,8 @@ Banking System with Data Structures in C++
 
 Group Members: Omil Dudhat, Nikhil Luthra
 
+We worked to create the project togehter by meeting up in person and over a Discord calls. 
+
 Project Description:
 User is able to open an account, display balance enquiry, deposit, withdrawal, close an account, show all accounts and quit from the system. 
 When opening an account, will add input values into data file and read from it when displaying accounts.
